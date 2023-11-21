@@ -10,5 +10,5 @@ def file_reader(filename,mode='w'):
         file.close()
 
 with file_reader('name.txt','w') as file:
-    file.write('extra data')
+    file.write('extra data tasj')
 
